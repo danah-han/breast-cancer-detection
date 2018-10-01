@@ -12,4 +12,7 @@ Python
 ## Frameworks: 
 Keras, TensorFlow
 
+## Timeline:
+I will be working on this project over the course of this semester as a capstone project for the Computational Biology and Medicine course that I currently taking.
+
 
